@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cp11v8i5x7etv"]
+
+[node name="Button" type="Button"]
+offset_right = 8.0
+offset_bottom = 8.0
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
